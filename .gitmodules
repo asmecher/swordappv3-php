@@ -1,0 +1,3 @@
+[submodule "swordv3"]
+	path = swordv3
+	url = https://github.com/swordapp/swordv3
